@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Four card feature section code snippet Github URL here](https://your-solution-url.com)
-- Live Site URL: [Four card feature section website URL here](https://your-live-site-url.com)
+- Solution URL: [Four card feature section code snippet Github URL here](https://github.com/Top-Trekx-Im-gvp-98/Four-Card-feature-section)
+- Live Site URL: [Four card feature section website URL here](https://four-card-feature-section-im-gvp-98.netlify.app/)
 
 ## My process
 
